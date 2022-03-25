@@ -4,4 +4,5 @@
 
 ## Pytest will be triggered by pushing code on main branch.
 
+
 ![Python application](https://github.com/Disalo/Continuous_Integration_Example/workflows/Python%20application/badge.svg)
